@@ -14,15 +14,4 @@ Running [proposed_method.m](proposed_method.m) to estimate the parameter and pre
 
 The method can be adjusted by modifying its parameters defined in [regressionParaMVC.m](functions/regressionKernel.m).
 
-## Repository Structure
 
-```text
-├── README.md
-├── main.m
-├── method.m
-├── data/
-│   ├── station_1.mat
-│   ├── station_2.mat
-│   └── station_3.mat
-└── results/
-```
