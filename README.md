@@ -12,6 +12,6 @@ The data includes: covariate ($X$), factor ($F$), feature ($Z$), and response ($
 
 Running [proposed_method.m](proposed_method.m) to estimate the parameter and predict the friction velocity.
 
-The method can be adjusted by modifying its parameters defined in [functions/regressionParaMVC.m](functions/regressionKernel.m).
+The method can be adjusted by modifying its parameters defined in [functions/regressionParaMVC.m](functions/regressionParaMVC.m).
 
 
